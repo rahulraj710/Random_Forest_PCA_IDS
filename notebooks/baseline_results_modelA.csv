@@ -1,0 +1,2 @@
+model,accuracy,train_time,auc
+A_full_features,0.9989680492161143,3.784458637237549,0.9999937158683802
